@@ -1,1 +1,1 @@
-# NeuroTrackDemo
+# BehaviorInSightDemo
